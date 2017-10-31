@@ -83,5 +83,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:laidu/myblog.git
+  repo: https://__GITHUB_TOKEN__@github.com/laidu/myblog.git
   branch: master

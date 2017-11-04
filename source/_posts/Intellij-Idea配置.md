@@ -77,7 +77,7 @@ tags:
 ```
 > 需要调整变量次序和默认值，因为在 "" 内输入变量名时，idea并不会有提示。
 
-![](Intellij-Idea配置/log-live-template.png)
+![](log-live-template.png)
 
 #### 3.2.2 注释
 

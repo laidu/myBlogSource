@@ -136,6 +136,7 @@ tags: summary
 
 ##5.3 ELK流程
 > logstash -> kafka -> logstash -> es(x=pack) -> kinaba
+
 * 日志监控报警
 * 爬虫请求、成功率、图表展示
 

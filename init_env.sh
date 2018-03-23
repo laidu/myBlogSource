@@ -7,7 +7,8 @@
 #    usage :
 #            1. sh init_env.sh
 
-npm install -g hexo-cli
+#npm install -g hexo-cli
+npm install hexo --save
 
 npm install hexo-migrator-wordpress --save
 npm install hexo-generator-feed --save

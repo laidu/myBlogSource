@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.4.3"
+    "version": "3.6.0"
   },
   "dependencies": {
-    "hexo": "^3.4.3",
+    "hexo": "^3.6.0",
     "hexo-asset-image": "git+https://github.com/CodeFalling/hexo-asset-image.git",
     "hexo-autonofollow": "^1.0.1",
     "hexo-deployer-git": "^0.3.1",
@@ -17,7 +17,7 @@
     "hexo-generator-index": "^0.2.0",
     "hexo-generator-json-content": "^3.0.1",
     "hexo-generator-restful": "^0.2.1",
-    "hexo-generator-search": "^2.1.1",
+    "hexo-generator-search": "^2.2.2",
     "hexo-generator-sitemap": "^1.2.0",
     "hexo-generator-tag": "^0.2.0",
     "hexo-migrator-wordpress": "^0.1.2",

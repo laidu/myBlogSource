@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-    
+
 #   function :
 #        init hexo env
 #    require :
@@ -29,3 +29,5 @@ npm install hexo-generator-json-content --save
 npm install hexo-wordcount --save
 #RESTful JSON数据生成插件。
 npm install hexo-generator-restful --save
+npm install hexo-renderer-marked --save
+npm install hexo-renderer-stylus --save

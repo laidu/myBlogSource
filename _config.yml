@@ -95,6 +95,8 @@ marked:
   breaks: true
   smartLists: true
   smartypants: true
+  modifyAnchors: ''
+  autolink: true
 
 #hexo-generator-search
 search:

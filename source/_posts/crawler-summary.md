@@ -136,7 +136,10 @@ tags: summary
 
 ##5.3 ELK流程
 > logstash -> kafka -> logstash -> es(x=pack) -> kinaba
+<<<<<<< HEAD
+=======
 
+>>>>>>> 4cdb3d2ef356251cf0e8ba817f80510382ece6e4
 * 日志监控报警
 * 爬虫请求、成功率、图表展示
 
@@ -160,3 +163,4 @@ tags: summary
  * DES
  * DESede
  * RSA
+

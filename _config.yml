@@ -77,7 +77,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: black-blue
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -143,3 +143,23 @@ restful:
   tags: true        # 标签数据
   post: true        # 文章数据
   pages: false      # 额外的 Hexo 页面数据, 如 About
+
+
+# Plugins:
+# - hexo-generator-feed
+# - hexo-generator-sitemap
+# - hexo-generator-baidu-sitemap
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
+# search:
+#   path: search.json
+#   field: post
+
+# sitemap:
+#   path: sitemap.xml
+# baidusitemap:
+#   path: baidusitemap.xml
